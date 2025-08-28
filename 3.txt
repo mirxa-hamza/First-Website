@@ -1,1 +1,1 @@
-this is '3.txt' - nice
+this is '3.txt'
