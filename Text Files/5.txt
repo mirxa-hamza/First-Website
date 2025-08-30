@@ -2,4 +2,8 @@ This is the best file beacuse it is 5.txt
 
 my ui
 
+<<<<<<< Updated upstream
 ye 5.txt h
+=======
+my good ui
+>>>>>>> Stashed changes
